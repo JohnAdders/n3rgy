@@ -11,5 +11,5 @@
     "requirements": [
         "requests"
     ],
-    "Issue_tracker": "https://github.com/JohnAdders/n3rgy/issues"
+    "issue_tracker": "https://github.com/JohnAdders/n3rgy/issues"
 }
